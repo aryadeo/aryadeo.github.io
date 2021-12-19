@@ -17,4 +17,4 @@
 - when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 - It has survived not only five centuries, but also the leap into electronic typesetting, r
 
-### ![Sample Graph to show](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+### ![Sample Graph to show](/images/ascending-graph-1173935_960_720.png)
